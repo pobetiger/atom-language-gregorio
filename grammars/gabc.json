@@ -1,4 +1,12 @@
 {
-        "fileTypes": ["gabc"],
-        "name": "Gregorio"
+  "scopeName": "source.gabc",
+  "fileTypes": ["gabc"],
+  "name": "Gregorio",
+  "patterns": [
+    {
+      "name": "comment.line.percentage.gregorio",
+      "begin": "%",
+      "end": "\n"      
+    }
+  ]
 }
