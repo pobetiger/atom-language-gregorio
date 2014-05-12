@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "name": "language-gregorio",
+  "description": "Atom language support for gregorio",
+  "homepage": "https://github.com/pobetiger/atom-language-gregorio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pobetiger/atom-language-gregorio.git"
+  },
+  "license": "Creative Commons",
+  "bugs": {
+    "url": "https://github.com/pobetiger/atom-language-gregorio/issues"
+  },
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "readme": "See README.md",
+  "readmeFilename": "README.md"
+}
