@@ -6,7 +6,11 @@
     {
       "name": "comment.line.percentage.gregorio",
       "begin": "%",
-      "end": "\n"      
+      "end": "\n"
+    },
+    {
+      "name": "string.quoted.other.gregorio",
+      "match": "[(]+[0-9A-MRVWa-moqrsvwxy~<>.,`';:_#/!{}]+[)]+"
     }
   ]
 }
